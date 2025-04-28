@@ -1,19 +1,30 @@
-# Act5_Rutas_6_i
+# Act3_Widgets_Basicos_1068
+- Numero de lista 18 Ejemplos 2 en 2
 
-A new Flutter project created with FlutLab - https://flutlab.io
+- Pantalla Inicial:
+  
+![image](https://github.com/user-attachments/assets/ee38c3d0-9f31-4893-ac3a-22971d96c31c)
 
-## Getting Started
+- Ejemplo 1:
 
-A few resources to get you started if this is your first Flutter project:
+  ![image](https://github.com/user-attachments/assets/2808d69d-4c17-4df4-aed2-5329b9562184)
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+- Ejemplo 2:
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  ![image](https://github.com/user-attachments/assets/f3a5c67d-be21-487f-8fe5-e241d46e75b2)
 
-## Getting Started: FlutLab - Flutter Online IDE
+- Ejemplo 3:
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+  ![image](https://github.com/user-attachments/assets/04a2f8b9-ee9b-48c5-a4d1-2c19f6e0f989)
+
+- Ejemplo 4:
+
+  ![image](https://github.com/user-attachments/assets/c00de51a-4727-4467-b13d-644f9178a842)
+
+- Ejemplo 5:
+
+  ![image](https://github.com/user-attachments/assets/5d77600b-e96e-4335-9162-8d71065ca8a4)
+
+- Ejemplo 6:
+
+  ![image](https://github.com/user-attachments/assets/2e7ff23a-c3a3-409c-b6cb-751e960c3ffd)
